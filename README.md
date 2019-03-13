@@ -1,7 +1,7 @@
 # LCD+TemperatureSensor
 Using with Arduino
 
-How use the file KYTCAT.io ? 
+How use the file KYTCAT.ino ? 
 
 Clone or download the file.
 
